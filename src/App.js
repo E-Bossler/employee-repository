@@ -148,7 +148,7 @@ class App extends React.Component {
           <p>
             Feel free to sort, filter, and view the employees below.
           </p>
-          <Button variant="primary">Add an Employee</Button>{' '}
+          {/* <Button variant="primary">Add an Employee</Button>{' '} */}
           <hr></hr>
           <p>
             Which Roles do you want to include?
