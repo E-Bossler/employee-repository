@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bob Smith",
+        "job": "Developer lead",
+        "salary": 100000
+    },
+    {
+        "name": "Brian Duimstra",
+        "job": "Sr Developer",
+        "salary": 90000
+    },
+    {
+        "name": "Jason Roundtree",
+        "job": "Sr Developer",
+        "salary": 110000
+    },
+    {
+        "name": "Dustin Jackson",
+        "job": "Jr Developer",
+        "salary": 75000
+    },
+    {
+        "name": "Jon Lee",
+        "job": "Developer lead",
+        "salary": 100000
+    },
+    {
+        "name": "Quintin Tarantino",
+        "job": "Sr Developer",
+        "salary": 92000
+    },
+    {
+        "name": "Sebastian Gabriel",
+        "job": "Sr Developer",
+        "salary": 115000
+    },
+    {
+        "name": "Terrence Jeffords",
+        "job": "Jr Developer",
+        "salary": 65000
+    },
+    {
+        "name": "Jake Peralta",
+        "job": "Developer lead",
+        "salary": 150000
+    },
+    {
+        "name": "Charles Boyle",
+        "job": "Sr Developer",
+        "salary": 82000
+    },
+    {
+        "name": "Raymond Holt",
+        "job": "Sr Developer",
+        "salary": 165000
+    },
+    {
+        "name": "Norm Scully",
+        "job": "Jr Developer",
+        "salary": 67000
+    },
+    {
+        "name": "Sarah Smith",
+        "job": "Developer lead",
+        "salary": 100000
+    },
+    {
+        "name": "Amy Santiago",
+        "job": "Sr Developer",
+        "salary": 90000
+    },
+    {
+        "name": "Rosa Diaz",
+        "job": "Sr Developer",
+        "salary": 110000
+    },
+    {
+        "name": "Leslie Knope",
+        "job": "Jr Developer",
+        "salary": 75000
+    },
+    {
+        "name": "April Ludgate",
+        "job": "Developer lead",
+        "salary": 100000
+    },
+    {
+        "name": "Donna Meagle",
+        "job": "Sr Developer",
+        "salary": 92000
+    },
+    {
+        "name": "Ann Perkins",
+        "job": "Sr Developer",
+        "salary": 115000
+    },
+    {
+        "name": "Lara Croft",
+        "job": "Jr Developer",
+        "salary": 65000
+    },
+    {
+        "name": "Jill Valentine",
+        "job": "Developer lead",
+        "salary": 150000
+    },
+    {
+        "name": "Sandy Rivers",
+        "job": "Sr Developer",
+        "salary": 82000
+    },
+    {
+        "name": "Abby Winter",
+        "job": "Sr Developer",
+        "salary": 165000
+    },
+    {
+        "name": "Jessica Lions",
+        "job": "Jr Developer",
+        "salary": 67000
+    }
+]
