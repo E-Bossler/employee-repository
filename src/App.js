@@ -190,7 +190,7 @@ class App extends React.Component {
           </Form>
           <hr></hr>
           <p>
-            Click the Column label to sort the data by that column.
+            Click the Salary label to sort salaries lowest to highest.
           </p>
         </Jumbotron>
 
